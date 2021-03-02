@@ -16,8 +16,6 @@ public class APS_Legal {
      */
     public static void main(String[] args) {
         System.out.println ("Japa");
-
-        System.out.println("Isa aqui apanhando para aprender kkk !")
     }
     
 }
